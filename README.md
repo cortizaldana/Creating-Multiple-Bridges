@@ -1,6 +1,12 @@
 # Creating-Multiple-Bridges
 
-- <a href="https://youtu.be/8fEsEG4uku8"> YouTube: Creating Multiple Bridges </a>
+# What Is The Point Of Creating A Bridge?
+
+- TO implement network segmentation
+- Each bridge will act like a network/subnet
+- Each bridge will host different services for our production like enviornement 
+- From a cost standpoint, this is the best way to go
+
 
 # Commands Issued To Create A Bridge
 
