@@ -2,7 +2,7 @@
 
 # What Is The Point Of Creating A Bridge?
 
-- T implement network segmentation
+- To implement network segmentation
 - Each bridge will act like a network/subnet
 - Each bridge will host different services for our production like enviornement 
 - From a cost standpoint, this is the best way to go
